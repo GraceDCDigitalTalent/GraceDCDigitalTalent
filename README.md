@@ -14,10 +14,8 @@ We skip recruiter fluff and focus purely on software craft, system architecture,
 ---
 
 ### 📬 Connect With Us
-- 📄 **Substack / Newsletter:** [Link to newsletter]
-- 💼 **LinkedIn:** [Link to your LinkedIn]
-- 🐦 **X (Twitter):** [Link to your X profile]
-
-> *"Quality over volume. Native engineering craft above all."*
+- 📄 **Substack / Newsletter:** (https://substack.com/@graceatdcdigital)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/grace-dray-cunningham/?isSelfProfile=true)
+- 🐦 **X (Twitter):** (https://x.com/GCunningham_DC)
 
 > *"Quality over volume. Native engineering craft above all."*
